@@ -1,0 +1,9 @@
+Libraries used:
+numPy
+pandas
+matplotlib
+seaborn
+sklearn
+tenserflow
+xgboost
+mlxtend
